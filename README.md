@@ -6,3 +6,4 @@ Welcome to the "Event Camera" Awesome list! To better collect and organize relev
 
 ## Event-Based Neuromorphic Vision for Autonomous Driving: A Paradigm Shift for Bio-Inspired Visual Sensing and Perception
 ## Research, Applications and Prospects of Event-Based Pedestrian Detection: A Survey
+## Continuous-time Object Segmentation using High Temporal Resolution Event Camera
