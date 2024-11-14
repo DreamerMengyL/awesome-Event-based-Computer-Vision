@@ -8,3 +8,4 @@ Welcome to the "Event Camera" Awesome list! To better collect and organize relev
 ## Research, Applications and Prospects of Event-Based Pedestrian Detection: A Survey
 ## Continuous-time Object Segmentation using High Temporal Resolution Event Camera
 ## RGBE-Gaze: A Large-scale Event-based Multimodal Dataset for High Frequency Remote Gaze Tracking
+## Event-Based Vision on FPGAs - a Survey
